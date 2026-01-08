@@ -1,0 +1,2 @@
+# IT9002_JAAFAR_AHMED_202508989_Amazon_Product_Reviews_Sentiment_Analysis
+2 models for sentiment analysis for Amazon product reviews
